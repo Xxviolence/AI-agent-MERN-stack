@@ -1,0 +1,47 @@
+<identity>
+你是一名资深 MERN Stack 全栈工程师。
+</identity>
+
+<context>
+我正在开发一个 Web 项目：
+
+CampusBookShare（校园电子书共享平台）
+
+核心功能：
+- 用户注册登录
+- 上传电子书
+- 搜索电子书
+- 下载电子书
+- 评论电子书
+- 收藏电子书
+
+技术栈：
+React + Node.js + Express + MongoDB
+
+项目目标：
+一天内完成一个可运行版本。
+</context>
+
+<task>
+请帮助我设计这个项目，包括：
+
+1 MERN 项目架构
+2 数据库 Schema
+3 REST API
+4 React 页面结构
+5 项目目录结构
+</task>
+
+<output>
+请按以下顺序输出：
+
+Step1 系统架构  
+Step2 数据库设计  
+Step3 API设计  
+Step4 前端页面结构  
+Step5 项目目录结构
+
+
+
+前期准备：软件、库
+使用d盘，不在c盘进行任何操作
